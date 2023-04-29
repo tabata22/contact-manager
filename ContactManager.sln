@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.Domain", "ContactManager.Domain\ContactManager.Domain.csproj", "{55FB5B7A-63E4-4F7B-928A-5AE59C6D8688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.Application", "ContactManager.Application\ContactManager.Application.csproj", "{2FAF05CD-8428-4892-BFC2-79F1E4A2CBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.Database.Postgre", "ContactManager.Database.Postgre\ContactManager.Database.Postgre.csproj", "{046B72AD-6031-49DB-9B23-7043D44C0357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.Api", "ContactManager.Api\ContactManager.Api.csproj", "{ED0A782F-ECA5-468F-813C-A030B5248C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FB5B7A-63E4-4F7B-928A-5AE59C6D8688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FB5B7A-63E4-4F7B-928A-5AE59C6D8688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FB5B7A-63E4-4F7B-928A-5AE59C6D8688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FB5B7A-63E4-4F7B-928A-5AE59C6D8688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAF05CD-8428-4892-BFC2-79F1E4A2CBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAF05CD-8428-4892-BFC2-79F1E4A2CBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAF05CD-8428-4892-BFC2-79F1E4A2CBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAF05CD-8428-4892-BFC2-79F1E4A2CBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046B72AD-6031-49DB-9B23-7043D44C0357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046B72AD-6031-49DB-9B23-7043D44C0357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046B72AD-6031-49DB-9B23-7043D44C0357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046B72AD-6031-49DB-9B23-7043D44C0357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0A782F-ECA5-468F-813C-A030B5248C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0A782F-ECA5-468F-813C-A030B5248C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0A782F-ECA5-468F-813C-A030B5248C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0A782F-ECA5-468F-813C-A030B5248C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

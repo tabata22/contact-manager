@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/ContactManager.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/ContactManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/ContactManager.Application.csproj",
+        "projectName": "ContactManager.Application",
+        "projectPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/ContactManager.Application.csproj",
+        "packagesPath": "/Users/nikatabatadze/.nuget/packages/",
+        "outputPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikatabatadze/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/ContactManager.Database.Postgre.csproj": {
+                "projectPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/ContactManager.Database.Postgre.csproj"
+              },
+              "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/ContactManager.Domain.csproj": {
+                "projectPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/ContactManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nikatabatadze/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/ContactManager.Database.Postgre.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/ContactManager.Database.Postgre.csproj",
+        "projectName": "ContactManager.Database.Postgre",
+        "projectPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/ContactManager.Database.Postgre.csproj",
+        "packagesPath": "/Users/nikatabatadze/.nuget/packages/",
+        "outputPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikatabatadze/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/ContactManager.Domain.csproj": {
+                "projectPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/ContactManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nikatabatadze/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/ContactManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/ContactManager.Domain.csproj",
+        "projectName": "ContactManager.Domain",
+        "projectPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/ContactManager.Domain.csproj",
+        "packagesPath": "/Users/nikatabatadze/.nuget/packages/",
+        "outputPath": "/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikatabatadze/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/nikatabatadze/.dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

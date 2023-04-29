@@ -1,0 +1,12 @@
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/bin/Debug/net7.0/ContactManager.Domain.deps.json
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/bin/Debug/net7.0/ContactManager.Domain.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/bin/Debug/net7.0/ContactManager.Domain.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ContactManager.Domain.csproj.AssemblyReference.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ContactManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ContactManager.Domain.AssemblyInfoInputs.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ContactManager.Domain.AssemblyInfo.cs
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ContactManager.Domain.csproj.CoreCompileInputs.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ContactManager.Domain.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/refint/ContactManager.Domain.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ContactManager.Domain.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Domain/obj/Debug/net7.0/ref/ContactManager.Domain.dll

@@ -1,0 +1,17 @@
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/bin/Debug/net7.0/ContactManager.Database.Postgre.deps.json
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/bin/Debug/net7.0/ContactManager.Database.Postgre.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/bin/Debug/net7.0/ContactManager.Database.Postgre.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/bin/Debug/net7.0/ContactManager.Domain.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/bin/Debug/net7.0/ContactManager.Domain.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.csproj.AssemblyReference.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.AssemblyInfoInputs.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.AssemblyInfo.cs
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.csproj.CoreCompileInputs.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.csproj.CopyComplete
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/refint/ContactManager.Database.Postgre.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ref/ContactManager.Database.Postgre.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/bin/Debug/net7.0/ContactManager.Database.Postgre.runtimeconfig.json
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Database.Postgre/obj/Debug/net7.0/ContactManager.Database.Postgre.genruntimeconfig.cache

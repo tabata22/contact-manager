@@ -1,0 +1,17 @@
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/bin/Debug/net7.0/ContactManager.Application.deps.json
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/bin/Debug/net7.0/ContactManager.Application.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/bin/Debug/net7.0/ContactManager.Application.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/bin/Debug/net7.0/ContactManager.Database.Postgre.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/bin/Debug/net7.0/ContactManager.Domain.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/bin/Debug/net7.0/ContactManager.Database.Postgre.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/bin/Debug/net7.0/ContactManager.Domain.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.csproj.AssemblyReference.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.AssemblyInfoInputs.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.AssemblyInfo.cs
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.csproj.CoreCompileInputs.cache
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.csproj.CopyComplete
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/refint/ContactManager.Application.dll
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ContactManager.Application.pdb
+/Users/nikatabatadze/RiderProjects/ContactManager/ContactManager.Application/obj/Debug/net7.0/ref/ContactManager.Application.dll
